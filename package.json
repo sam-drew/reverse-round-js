@@ -1,0 +1,9 @@
+{
+  "name": "reverse-round",
+  "version": "1.0.0",
+  "description": "Rounding, in reverse.",
+  "main": "index.js",
+  "repository": "https://github.com/sam-drew/reverse-round-js.git",
+  "author": "Sam Drew <sam-drew@outlook.com>",
+  "license": "MIT"
+}
